@@ -8,13 +8,27 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.1.Import the standard libraries.
+1.Import the standard libraries.
+
+
 2.Upload the dataset and check for any null values using .isnull() function.
+
+
 3.Import LabelEncoder and encode the dataset.
+
+
 4.Import DecisionTreeClassifier from sklearn and apply the model on the dataset. 
+
+
 5.Predict the values of array. 
+
+
 6.Import metrics from sklearn and calculate the accuracy of the model on the dataset. 
+
+
 7.Predict the values of array.
+
+
 8.Apply to new unknown values.
 
 ## Program:
